@@ -28,6 +28,15 @@ The game is played using the standard rules of chess. Each player takes turns mo
 
 To move a piece, select it with your mouse and drag it to the desired square. If the move is legal, the piece will be placed on the new square. If the move is not legal, the piece will return to its original position.
 
+## Features
+
+- `En Passant`: Special pawn capture move inclusion
+- `Castling`: Ability to perform the castling maneuver
+- `Checkmate and Stalemate Detection`: Logic for detecting game-ending states
+- `User Interface`: Graphical representation of the board with mouse controls
+- `Standard Chess Rules`: Adherence to traditional chess rules
+- `Two-Player Mode`: Enable two human players to compete on the same device
+
 ## Code Overview
 
 The game is built using two Python files:
