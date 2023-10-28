@@ -2,6 +2,8 @@
 
 This is a simple two-player chess game built in Python. It uses the standard rules of chess and allows two players to play against each other on the same computer.
 
+![image](https://github.com/purnasth/chess-python/assets/107195487/54d79149-d13c-48eb-ac60-57c57b999aae)
+
 ## Installation
 
 To install and run the game, follow these steps:
